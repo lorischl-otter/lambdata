@@ -19,10 +19,10 @@ Lambdata is bundled with the following Python package dependencies:
 * Numpy
 
 ## Version
----------
+
 1.4
 
 ## Licence
-----------
+
 **MIT**, see `LICENSE.txt` for details.
 
